@@ -12,12 +12,12 @@ Here are the definitions of each column for reference: <br/>
 * Search Visibility Score: A composite metric used to estimate how often this product/brand/category was viewed in shopper searches. It is estimated using the number of keywords, search volume, item search rank, and number of days items appeared in the search result slots.
 * Avg. monthly search: The number of times the keyword has been searched on Amazon on an average per month."	
 
-#### Analysing the data
+### Analysing the data
 
 Calculated portion_of_visibility_score_over_monthly_search by dividing Prime Day Visibility score over Avg. montly search volume: <br/>
 Also made the decision to consolidate the searches by parent company to inspect trends at a collated level. Here is the [resulting csv of data consolidated by parent company](https://github.com/ivynyayieka/warc_prime_deals/blob/main/company%20DC%20data%20journalist%20exercise.csv)
 
-# Exploratory plotting
+### Exploratory plotting
 Used Datawrapper to look at trends. 
 ![Video Games: Organic Search Visibility (Prime Big Deal Days 2023)](tYDn5--span-style-font-family-arial-font-size-15px-white-space-collapse-preserve-background-color-rgb-255-255-255-video-games-organic-search-visibility-prime-big-deal-days-2023-span--1.png)
 ![Nintendo Highest Prime Day visibility by numbers](irOYq-nintendo-highest-prime-day-visibility-by-numbers-nbsp--1.png)
