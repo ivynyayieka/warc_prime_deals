@@ -2,7 +2,7 @@
 
 This is an analysis into trends in organic search visibility on Prime Big Deal Days. <br/>
 
-#### Getting the Data
+### Getting the Data
 
 Source: [Analytic Index - Amazon Prime Big Deal Days 2023 Ultimate Recap](https://8717401.fs1.hubspotusercontent-na1.net/hubfs/8717401/Prime%20Big%20Deal%20Days%202023/Analytic%20Index%20-%20Amazon%20Prime%20Big%20Deal%20Days%202023%20Ultimate%20Recap.pdf)
 
