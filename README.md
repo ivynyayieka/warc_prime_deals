@@ -26,6 +26,7 @@ Used Datawrapper to look at trends.
 # Final Visualization
 ![Quest 3 viewed 1.7 times more frequently on shoppers’ searches during Prime Days alone compared to monthly average](EeZMy-quest-3-viewed-1-7-times-more-frequently-on-shoppers-searches-during-prime-days-alone-compared-to-monthly-average-1.png)
 ## Frequency of item’s viewership in shopper searches
+Used the Python version since it appeared slightly neater than R, used parent company to determine colour groups
 ![Wordcloud](<wordcloud copy-1.jpg>)
 #### Tech
 Microsoft Excel, Python, R, Datawrapper
